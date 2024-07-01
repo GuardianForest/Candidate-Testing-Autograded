@@ -26,7 +26,7 @@ let correctAnswers = [
   "3"
 ];
 let candidateAnswers = [];
-
+ 
 
 function askForName() {
   // TODO 1.1b: Ask for candidate's name //
